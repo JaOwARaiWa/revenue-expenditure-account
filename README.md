@@ -1,4 +1,5 @@
 # revenue-expenditure-account
+## 6210450032 นายเกียรติกุล ทองอุดม
 
 ## Project setup
 ```
@@ -9,6 +10,7 @@ npm install
 ```
 npm run serve
 ```
+ใช้คำสั่งนี้เพื่อเปิดโปรเจคใน localhost และเข้าผ่านบราวเซอร์
 
 ### Compiles and minifies for production
 ```
